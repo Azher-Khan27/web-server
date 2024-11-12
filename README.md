@@ -1,2 +1,1 @@
-# My-Cloud
-scripts for web server checking on aws
+This cloud is for self pace
